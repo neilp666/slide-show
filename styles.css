@@ -32,4 +32,9 @@
       left: 0;
       width: 900px;
       height: 600px;
+      z-index: 0;
+  }
+
+  section.slideshow img:first-child {
+      z-index: 1;
   }
