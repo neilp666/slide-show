@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=David+Libre');
+
+  body {
+    font-family: 'David Libre', serif;
+    line-height: 1.25;
+    background-color: #ffffffff;
+    color: #000000;
+    margin: 50px auto 100px auto;
+    width: 900px;
+  }
+
+  header {
+      margin: 0 0 40px 0;
+      text-align: center;
+      text-transform: uppercase;
+  }
+
+  h1 {
+      font-size: 22px;
+  }

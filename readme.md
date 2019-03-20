@@ -1,0 +1,1 @@
+example hover slides show with a tiny bit of CSS and Javascript
